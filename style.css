@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+/* common style  */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #3c3c3c;
+}
+h1,
+h2 {
+  font-family: "Bebas Neue", cursive;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  color: #363958;
+}
+
+/* header style start */
+.header-title {
+  color: #363958;
+  font-size: 80px;
+  line-height: 96px;
+}
+header {
+  background-color: #fffbf0;
+}
+.header-discription-wrap {
+  width: 357px;
+}
+.header-discription {
+  color: #3e3e3e;
+  text-align: justify;
+}
+.button-link {
+  text-decoration: none;
+}
+/* header style end */
+/* women jacket section start */
+.product-item {
+  width: 350px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  padding: 15px;
+}
+.product-item-img-wrap {
+  width: 318px;
+  background-color: #f1f1f1;
+  border-radius: 20px;
+}
+.women-img-1 {
+  width: 292px;
+}
+.product-discription {
+  color: #3e3e3e;
+}
+.price {
+  font-size: 25px;
+}
+
+/* women jacket section end   */
+
+/* shoping section start */
+.shopping-img {
+  width: 579px;
+}
+.shop-card-icon {
+  width: 78px;
+}
+.shop-content-wrap {
+  width: 276px;
+}
+.shop-content {
+  padding: 10px 20px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
+
+/* shoping section end  */
